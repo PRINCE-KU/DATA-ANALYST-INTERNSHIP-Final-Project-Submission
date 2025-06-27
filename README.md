@@ -93,6 +93,10 @@ An interactive Power BI dashboard was built with the following features:
 - Total Employees, Attrition Rate (%), Avg Salary, Avg Age
 - Attrition by Department and Gender
 - Monthly Income Boxplot
+![Screenshot (346)](https://github.com/user-attachments/assets/a93679d8-4b67-413d-a167-16f076d5d3bf)
+
+
+
 
 ### 📉 Attrition Risk Analysis
 - Overtime vs Attrition
